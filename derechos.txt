@@ -33,4 +33,4 @@ Atentamente,
 BAR CEJAS 
 Avenida Andalucía, 8 
 Teléfono: 744 607 535
-web: efwefwefewf
+web: https://cartabarcejas.github.io/

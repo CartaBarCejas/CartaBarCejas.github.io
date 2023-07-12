@@ -124,6 +124,9 @@ section{
         font-weight: bold;
 }
 
+a[id="derechos"]{
+    color:aquamarine;
+}
 .block {
     text-align: center;
     padding: 5px;
